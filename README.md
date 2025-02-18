@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SharinTech
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on AI projects, Machine Learning models, and data science
-- 📫 How to reach me sharin.sathiqbasha@gmail.com
-- 😄 Pronouns: she
-- ⚡ Fun fact: love building projects from scratch!
+👋 Hi, I’m Sharin
+🚀 I’m passionate about harnessing the power of Artificial Intelligence to solve real-world problems
+🌱 Currently diving deep into Machine Learning and building intelligent applications
+💡 Always looking to collaborate on innovative AI projects, ML models, and data science solutions
+📬 Reach out to me at: sharin.sathiqbasha@gmail.com
+💬 Pronouns: She/Her
+⚡ Fun fact: I thrive on transforming ideas into working code, especially when it comes to building projects from scratch!
 
 <!---
 SharinTech/SharinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
